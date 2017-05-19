@@ -104,13 +104,13 @@
 
     <Resources>
       <bt:Images>
-        <bt:Image id="icon16" DefaultValue="https://localhost:3000/assets/icon-16.png"/>
-        <bt:Image id="icon32" DefaultValue="https://localhost:3000/assets/icon-32.png"/>
-        <bt:Image id="icon80" DefaultValue="https://localhost:3000/assets/icon-80.png"/>
+        <bt:Image id="icon16" DefaultValue="https://alchaplinksy.pro/assets/icon-16.png"/>
+        <bt:Image id="icon32" DefaultValue="https://alchaplinksy.pro/assets/icon-32.png"/>
+        <bt:Image id="icon80" DefaultValue="https://alchaplinksy.pro/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="functionFile" DefaultValue="https://localhost:3000/function-file/function-file.html"/>
-        <bt:Url id="messageReadTaskPaneUrl" DefaultValue="https://localhost:3000/index.html"/>
+        <bt:Url id="functionFile" DefaultValue="https://alchaplinksy.pro/function-file/function-file.html"/>
+        <bt:Url id="messageReadTaskPaneUrl" DefaultValue="https://alchaplinksy.pro/index.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="groupLabel" DefaultValue="My Add-in Group"/>
