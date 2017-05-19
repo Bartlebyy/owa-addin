@@ -20,11 +20,11 @@
   <Description DefaultValue="[Outlook Add-in description]"/>
 
   <!-- Icon for your add-in. Used on installation screens and the add-ins dialog. -->
-  <IconUrl DefaultValue="http://alchaplinsky.pro/owa-addin/assets/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="http://alchaplinsky.pro/owa-addin/assets/icon-80.png"/>
+  <IconUrl DefaultValue="https://alchaplinsky.pro/owa-addin/assets/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://alchaplinsky.pro/owa-addin/assets/icon-80.png"/>
 
   <!--If you plan to submit this add-in to the Office Store, uncomment the SupportUrl element below-->
-  <SupportUrl DefaultValue="http://alchaplinsky.pro/owa-addin/" />
+  <SupportUrl DefaultValue="https://alchaplinsky.pro/owa-addin/" />
 
   <!-- Domains that will be allowed when navigating. For example, if you use ShowTaskpane and then have an href link, navigation will only be allowed if the domain is on this list. -->
   <AppDomains>
@@ -45,7 +45,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="http://alchaplinsky.pro/index.html"/>
+        <SourceLocation DefaultValue="https://alchaplinsky.pro/owa-addin"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
