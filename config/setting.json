@@ -1,0 +1,14 @@
+{
+  "development": {
+    "host": "localhost:3000"
+    ...
+  },
+  "staging": {
+    "host": "staging.calendly.com"
+    ...
+  },
+  "production": {
+    "host": "calendly.com"
+    ....
+  }
+}
